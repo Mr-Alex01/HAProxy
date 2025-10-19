@@ -70,7 +70,7 @@
 
 `Был добавлен ещё один simple python сервера на новом порту, настроена балансировка Weighted Round Robin на 7 уровне с весами 2,3 и 4 соответственно, также есть отображение веб-статистики. Запрос к домену example.local наглядно распределяет веса:`
 
-![1](https://github.com/Mr-Alex01/kHAProxy/blob/main/img/2.jpg)
+![1](https://github.com/Mr-Alex01/HAProxy/blob/main/img/2.jpg)
 
 `Трафик, который не адресован домену example.local выпадает в ошибку 403:`
 
