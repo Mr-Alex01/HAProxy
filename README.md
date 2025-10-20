@@ -28,6 +28,8 @@
 
 ![1](https://github.com/Mr-Alex01/HAProxy/blob/main/img/1.jpg)
 
+[Файл конфигурации HAProxy.cfg](https://github.com/Mr-Alex01/HAProxy/blob/main/haproxy.cfg)
+
 ---
 
 ### Задание 2
@@ -39,3 +41,5 @@
 `Трафик, который не адресован домену example.local выпадает в ошибку 403:`
 
 ![1](https://github.com/Mr-Alex01/HAProxy/blob/main/img/3.jpg)
+
+[Файл конфигурации HAProxy (weight).cfg](https://github.com/Mr-Alex01/HAProxy/blob/main/haproxy%20(weight).cfg)
